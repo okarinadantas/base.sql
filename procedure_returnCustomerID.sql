@@ -103,5 +103,5 @@ exec dbo.insertCostumer
 ,@Phone = '(604) 555-4729'
 ,@Fax = '(604) 555-3745'
 
-select * from [dbo].[Customers]
-WHERE CustomerID = 'FFGF'
+--select * from [dbo].[Customers]
+--WHERE CustomerID = 'FFGF'
